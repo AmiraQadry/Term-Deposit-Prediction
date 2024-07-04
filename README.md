@@ -1,5 +1,4 @@
 # Term Deposit Prediction with Random Forest Classifier
-![](https://storage.googleapis.com/kaggle-datasets-images/4086639/7091569/f93dc14706d85edfb8c145352942417a/dataset-card.png?t=2023-11-30-14-38-43)
 
 This project predicts a customer's likelihood of subscribing to a term deposit using a Random Forest Classifier model.
 
